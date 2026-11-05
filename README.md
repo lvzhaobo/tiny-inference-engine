@@ -140,4 +140,4 @@ md5 = a40b16a2e4f853dff04be37547af697e
 
 ## License
 
-待定（发布前必须补）。
+[MIT](LICENSE) © 2026 lvzhaobo
